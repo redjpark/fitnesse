@@ -4,7 +4,7 @@ Welcome to FitNesse, the fully integrated stand-alone acceptance testing framewo
 
 To get started, check out [http://fitnesse.org](http://fitnesse.org)!
 
-xxx
+
 
 ## Quick start
 
